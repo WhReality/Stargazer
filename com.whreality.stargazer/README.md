@@ -3,7 +3,6 @@
 Unity editor extension for procedually generating space skyboxes<br>
 
 ## Installation
-
 ### Manual
 Add following line to `./Packages/manifest.json` under `dependencies` section:<br>
 ```
@@ -20,7 +19,6 @@ Example of complete `manifest.json`:
 }
 
 ```
-
 ### Package manager
 - Select `Add package from GIT url` 
 - Insert url: `https://github.com/WhReality/com.whreality.stargazer.git`
@@ -32,3 +30,6 @@ Editor parameters can be imported/exported in JSON format.
 If you select `Save JSON` Stargazer will save `JSON` file from settings wich image was generated from.
 ### Import
 You can import parameters by clicking Import Icon in the top menu. ![Alt text](./Editor/Images/fas%20fa-file-import.png "Import")
+
+## Development
+https://github.com/WhReality/Stargazer
