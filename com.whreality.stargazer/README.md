@@ -3,6 +3,8 @@
 Unity editor extension for procedually generating space skyboxes<br>
 
 ## Installation
+There is couple of ways to install package. You can manually edit `manifest.json` inside Packages folder or use Unity Package Manager and import from url.
+
 ### Manual
 Add following line to `./Packages/manifest.json` under `dependencies` section:<br>
 ```
